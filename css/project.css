@@ -51,3 +51,92 @@ footer {
 hr {
   border-top-color: #CCC;
 }
+
+.box {
+  border: 3px solid;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 1.2em;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  width: 100px;
+}
+
+.box-commit {
+  background-color: #cdffcc;
+  border-color: #8bf68c;
+}
+
+.box-branch {
+  background-color: #ffdfc0;
+  border-color: #f1c392;
+}
+
+.box-head {
+  background-color: #e4e4e4;
+  border-color: #d8d8d8;
+}
+
+.box-index {
+  background-color: #ccccfe;
+  border-color: #9d9de7;
+}
+
+.box-dir {
+  background-color: #fecccb;
+  border-color: #f79c9b;
+}
+
+#box1 {
+  top: 282px;
+  left: 300px;
+}
+
+#box2 {
+  top: 282px;
+  left: 420px;
+}
+
+#box3 {
+  top: 282px;
+  left: 540px;
+}
+
+#box4 {
+  top: 282px;
+  left: 660px;
+}
+
+#box5 {
+  top: 282px;
+  left: 780px;
+}
+
+#box6 {
+  top: 220px;
+  left: 300px;
+}
+
+#box7 {
+  top: 220px;
+  left: 780px;
+}
+
+#box8 {
+  top: 180px;
+  left: 780px;
+  height: 90px;
+}
+
+#box9 {
+  top: 370px;
+  left: 510px;
+  width: 200px;
+}
+
+#box10 {
+  top: 450px;
+  left: 510px;
+  width: 200px;
+}
